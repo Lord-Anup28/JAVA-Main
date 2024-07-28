@@ -1,8 +1,8 @@
 public class string1{
     public static void main(String []args){
-        String st="ALGOPREP";
+        String st="algoprep";
+        System.out.println(st);
         char[] ch=st.toCharArray();
-        System.out.println(ch.length);
         for(int i=0;i<ch.length;i++){
             int s;
             if(ch[i]<97){
