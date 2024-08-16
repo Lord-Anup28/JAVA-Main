@@ -7,9 +7,7 @@ public class array14 {
         for(int i=0;i<n;i++){
             System.out.print(ans[i]+" ");
         }
-
         System.out.println();
-
     }
     public static int[] prefixSum(int [] arr,int n){
         int[] ps=new int[n];

@@ -9,9 +9,9 @@ public class array12 {
             System.out.print(pf[i]+" ");
         }
         System.out.println(); 
-        int[][] q={{3,2,0,5,6};
+        int[][] q={{3,2,0,5,6},
                   {8,4,3,9,6}};
-        int l=fir.length;
+        int l=q.length;
         for(int i=0;i<l;i++){
             int ei=las[i]-1;
             int si=fir[i]-1;

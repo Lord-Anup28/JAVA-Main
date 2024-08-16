@@ -1,4 +1,4 @@
-//pivot index
+//pivot index or equilibrium
 public class array13 {
     public static void main (String[] args){
         int [] arr={-2,6,3,4};
